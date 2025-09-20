@@ -1,25 +1,34 @@
 # 👋 Hello! I’m @smartsakthi
 
-I’m a passionate UI/UX Designer, Programmer, and Networking enthusiast based in **Chennai, INDIA**.
+👋 Hello! I’m @smartsakthi
+I’m a System Administrator based in Chennai, INDIA, with a strong background in IT infrastructure, networking, and automation, and a working knowledge of UI/UX design and programming.
 
 ---
 
-### 🔭 What I’m Doing
-- Currently sharpening my skills in **UI/UX Design**, **Networking**, and **Programming**.
-- Always exploring new tools and techniques to create intuitive and beautiful digital experiences.
+🔧 What I’m Doing
+Currently working as a System Administrator, managing infrastructure, servers, and ensuring secure and efficient IT operations.
+Still passionate about UI/UX and development — I believe in blending design thinking with system-level
 
 ---
 
-### 🌱 I’m Learning
-- Advanced UI/UX Design principles and prototyping
-- Networking technologies and infrastructure
-- Modern programming languages and frameworks
+🌱 I’m Learning
 
+Advanced system administration (Linux/Windows servers, virtualization, cloud infrastructure)
+
+Network security and automation (Bash, PowerShell, Python scripting)
+
+Continual learning in UI/UX and modern frameworks to stay creative
 ---
 
-### 🤝 Let’s Collaborate
-I’m open to collaborating on projects related to UI/UX design, web development, or networking.  
-Feel free to reach out if you want to build something great together!
+🤝 Let’s Collaborate
+I'm open to projects involving:
+
+IT Infrastructure setup and management
+
+Network design and system automation & scripting
+
+UI/UX design or full-stack web development
+Let’s build something secure, smart, and stunning together!
 
 ---
 
@@ -29,8 +38,8 @@ Check out my portfolio for my latest work and projects:
 
 ---
 
-### ⚡ Fun Fact
-I believe design and code together make magic happen! 🚀
+⚡ Fun Fact
+I thrive at the intersection of design and infrastructure — from crafting clean UIs to managing complex systems behind the scenes! 🛠️🎨
 
 ---
 
